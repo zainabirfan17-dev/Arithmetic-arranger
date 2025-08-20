@@ -54,6 +54,11 @@ print(arithmetic_arranger(problems, True))
 ```
 
 ---
+## 🎥 Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/eiXL2sJPQpc/0.jpg)](https://youtu.be/eiXL2sJPQpc)
+
+
 
 ## Author
 
