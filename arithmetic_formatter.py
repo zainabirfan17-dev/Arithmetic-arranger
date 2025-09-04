@@ -57,6 +57,6 @@ def arithmetic_arranger(problems, show_answers=False):
     # Return the final formatted string
     return arranged_problems
 
-if __name__=="main":
+if __name__=="__main__":
     # Example usage:
     print(arithmetic_arranger(["32 + 698", "3801 - 2", "45 + 43", "123 + 49"], True))
